@@ -1,0 +1,7 @@
+export const Heart = require('./heart.png')
+export const AiBtn = require('../images/AiButton/ai.png')
+export const CardImg = require('./image.png')
+export const Profile = require('./Profile.png')
+export const Mapicon1 = require('../images/Mapicon/Group.png')
+export const Mapicon2 = require('../images/Mapicon/logo.png')
+export const TickitMapicon = require('../images/Mapicon/mapicon.png')
